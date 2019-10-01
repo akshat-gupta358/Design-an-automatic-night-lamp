@@ -1,4 +1,4 @@
-EXP2_AUTOMATIC_NIGHT_LAMP
+EXPERIMENT AUTOMATIC_NIGHT_LAMP
 
 THEORY: 
 As per the circuit diagram, we have made a voltage divider circuit using LDR and 10k resistor. The voltage divider output is feed to
